@@ -44,8 +44,8 @@ Used Python to solve four categories of problems:
 * `TreeSort.ipynb` - pending
 
 ### Searching Algorithms
-* `BinarySearch.ipynb` - pending
-* `LinearSearch.ipynb` - pending
+* `BinarySearch.ipynb` - completed April 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/search_algorithms/BinarySearch.ipynb)
+* `LinearSearch.ipynb` - completed April 6 - code [here](https://github.com/erincameron11/python-practice/blob/main/search_algorithms/LinearSearch.ipynb)
 
 ### Data Structures
 * `ADT2-3Tree.ipynb` - pending
