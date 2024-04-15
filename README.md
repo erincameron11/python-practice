@@ -14,6 +14,7 @@ Used Python to solve four categories of problems:
 ### Simple Programs
 * `Anagram.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Anagram.ipynb)
 * `Armstrong.ipynb` - completed Feb 27 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Armstrong.ipynb)
+* `DecodeMessage.ipynb` - completed April 14 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/DecodeMessage.ipynb) using adjacent `DecodeMessage.txt` file
 * `Factorial.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Factorial.ipynb)
 * `Fibonacci.ipynb` - completed Feb 24 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/Fibonacci.ipynb)
 * `GCD.ipynb` - completed Feb 27 - code [here](https://github.com/erincameron11/python-practice/blob/main/simple_programs/GCD.ipynb)
